@@ -33,6 +33,48 @@ The last but not the least, we have provided an emergency button which can work 
 
 ## Application Images : 
 
+## Funcitonality and Concept :
+
+
+
+The app has a very simple and interactive interface that helps the user to handle the application.
+
+
+Following are a few android concepts used to achieve the functionalities in the app:
+
+
+Constraint Layout: Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
+
+
+Dark and Light Mode: This app can automatically adopt to light or dark mode as required for better display and interaction with the user.
+
+
+Simple & Easy Views Design: Use of familiar audience EditText with hints and interactive buttons made it easier for Users to move around and explore the app.
+
+
+Recycler-View: To go back to the user menu and keep searching back and forth until user is sure about what to order and clicks the confirm button.
+
+
+The notification feature in our application provides users with timely alerts and updates regarding their appointments within the application. These notifications are delivered directly to the user's device, making it easy for them to stay informed and up-to-date.
+
+
+In-app notifications are displayed within the application when the user is actively using it. These notifications are typically used to provide the user with updates about their current appointment
+
+
+The language translation feature in our application provides users with the ability to translate text into multiple languages. This feature is designed to make the application accessible to users who speak different languages and to facilitate communication between users who speak different languages
+To use the language translation feature, users simply need to select language from list and click ok.
+
+
+in our application allows users to easily search for and hire workers for various tasks. This feature is designed to help users find qualified workers quickly and easily, without having to go through the traditional hiring process.
+Our application allows workers to create profiles that showcase their skills, experience, and availability. Users can search for workers based on these criteria to find the best match for their task.
+
+
+Our application provides users with the ability to listen to their favorite music even when they are not connected to the internet. This feature is designed to provide users with a seamless music listening experience, regardless of their internet connection.
+
+
+Our application provides users with a convenient and visually appealing way to manage their contacts by allowing them to save contact numbers with images. This feature is designed to make it easy for users to quickly identify and call their contacts.
+
+
 
 ## Future Scope :
 
