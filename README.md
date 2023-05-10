@@ -34,18 +34,29 @@ The last but not the least, we have provided an emergency button which can work 
 ## Application Images : 
 
 
-<img src="https://github.com/Shweta2003/Helper/assets/65994349/ea79d41b-8cf5-481a-a000-75aa9b86558e" width = 600/>
+<img src="https://github.com/Shweta2003/Helper/assets/65994349/ea79d41b-8cf5-481a-a000-75aa9b86558e" width = 700/>
 
-<img src="https://github.com/Shweta2003/Helper/assets/65994349/5b83b513-e8b6-4b10-af6a-26dfd1e4471d" width = 600/>
+<img src="https://github.com/Shweta2003/Helper/assets/65994349/5b83b513-e8b6-4b10-af6a-26dfd1e4471d" width = 700/>
 
-<img src="https://github.com/Shweta2003/Helper/assets/65994349/95f40809-ccf9-464e-bacb-5fb40bb60005" width = 600/>
+<img src="https://github.com/Shweta2003/Helper/assets/65994349/95f40809-ccf9-464e-bacb-5fb40bb60005" width = 700/>
 
-<img src="https://github.com/Shweta2003/Helper/assets/65994349/6c043f35-4644-425f-803d-d2156dfef3dc" width = 600/>
+<img src="https://github.com/Shweta2003/Helper/assets/65994349/6c043f35-4644-425f-803d-d2156dfef3dc" width = 700/>
 
-<img src="https://github.com/Shweta2003/Helper/assets/65994349/8c330670-df22-47d2-933a-c602803771b0" width = 600/>
+<img src="https://github.com/Shweta2003/Helper/assets/65994349/8c330670-df22-47d2-933a-c602803771b0" width = 700/>
 
-<img src="https://github.com/Shweta2003/Helper/assets/65994349/e000f5d6-5aaf-404f-8740-55c8bff18b82" width = 600/>
+<img src="https://github.com/Shweta2003/Helper/assets/65994349/e000f5d6-5aaf-404f-8740-55c8bff18b82" width = 700/>
 
+
+
+## video of application :
+ See the video though the link given below :
+ 
+  https://clipchamp.com/watch/3gakpnHLVJg
+ 
+ 
+ https://github.com/Shweta2003/Helper/assets/65994349/03b069e3-fcb5-4c60-a25f-1bd58cdf6b1a
+ 
+ 
 
 
 ## Funcitonality and Concept :
