@@ -18,9 +18,9 @@ Lack of Familiarity, Physical Limitations, Fear of Technology, Limited Access to
 We have attempted to create an application for the ease of senior citizens.
 
 
-Through our applocation, the user can easily interact with the system/android because we provide multi language system so that even if they don't understand english, they are able to read and use the android devices.
+Through our application, the user can easily interact with the system/android because we provide multi language system so that even if they don't understand english, they are able to read and use the android devices.
 
-We have also provided the user with a calender system, where they can store their day-to-day activity list so that they don't forget their important appointments and get a reminder on time.
+We have also provided the user with a calendar system, where they can store their day-to-day activity list so that they don't forget their important appointments and get a reminder on time.
 
 Another feature of the app allows the user to select a particular task to be completed(household work/ plumber/ electrician etc) and then the database selects a worker and allows the user to hire them. This feature will also increase the job opportunities and because the workers and trusted and in partnership with our team, user will be safe to communicate and interact with them.
 
