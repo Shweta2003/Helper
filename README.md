@@ -33,3 +33,18 @@ The last but not the least, we have provided an emergency button which can work 
 
 ## Application Images : 
 
+
+## Future Scope :
+
+
+The application has limited language scope right now. In future we plan to increase the language range so that different masses can access it. 
+
+
+We also plan to include voice recognition and functioning to increase the interactivity of user with android apps so that it's more easy for them to use the application. 
+
+
+We also plan to include other features like access to nearby welfare/ old age homes so that they can interact with other people and feel more involved in the society. 
+
+
+In the future the worker database can also be increased and categorized based on the location so that it is easy for the user to find the most reliable worker for them and this will also increase the job opportunities in respective localities.
+
