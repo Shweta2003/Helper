@@ -1,6 +1,20 @@
 # **HELPER**
 
 
+## My Team
+
+### 1. Shweta Mandal
+
+      https://github.com/Shweta2003
+      
+### 2. Shruti Dikkar
+
+      https://github.com/Shrutidikkar30
+      
+### 3. Anvi Gautam
+ 
+      https://github.com/anvig29
+
 ## Problem Statement : 
 
 
