@@ -2,14 +2,14 @@
 
 
 ## My Team
-
-### 1. Shweta Mandal
-
-      https://github.com/Shweta2003
       
-### 2. Shruti Dikkar
+### 1. Shruti Dikkar
 
       https://github.com/Shrutidikkar30
+
+### 2. Shweta Mandal
+
+      https://github.com/Shweta2003
       
 ### 3. Anvi Gautam
  
